@@ -85,6 +85,8 @@ local run_cmd=$(cat << __EOF__
 		bean-appearance-graphite-gtk-theme
 		bean-appearance-graphite-kde-theme
 
+		bean-appearance-greystone-icon-theme
+
 __EOF__
 )
 
